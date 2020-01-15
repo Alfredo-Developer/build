@@ -1,0 +1,3 @@
+name: Build
+version: 1.0
+main: us.jurassichq.build.Build
